@@ -1,1 +1,1 @@
-# lung-cancer-classification_srn
+# lung-cancer-classification_histopathology
